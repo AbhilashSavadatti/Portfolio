@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import "./Sidebar.css";
-import Logo from "../../assets/logo.svg";
+import Logo from "../../assets/216122003-1c7d9078-357a-47f5-81c7-1c4f2552e143.png";
 import LightLogo from "../../assets/light-logo.svg";
 
 import {

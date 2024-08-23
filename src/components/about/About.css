@@ -133,6 +133,7 @@
 
   .about__img {
     justify-self: center;
+    width: 200px;
   }
 
   .about__box {
