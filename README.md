@@ -1,15 +1,44 @@
-<<<<<<< HEAD
-# React + Vite
+# Hi, I'm Abhilash A Savadatti! 👋
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🚀 About Me
 
-Currently, two official plugins are available:
+I'm a passionate Computer Science and Engineering student currently pursuing my B.Tech at **SDM Institute of Technology, Ujire**. I'm in my third year (6th semester), and I'm focused on expanding my portfolio through hands-on projects and collaboration as a team player.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-=======
-# Merged README
+## 🛠️ Skills & Technologies
 
-Combined content from both local and remote branches.
+- **Programming Languages:** Java,JavaScript,C
+- **Web Development:** React.js, Next.js Tailwind CSS, HTML/CSS
+- **Backend Development:** Spring Boot, RESTful APIs
+- **Database Management:** MySQL, MongoDB
+- **Tools & Technologies:** Git
+- **Others:** Medium Blogging
 
->>>>>>> origin/main
+## 📝 Current Projects
+
+- **Twitter Clone:** A full-stack project using Spring Boot and React JS.
+- **Portfolio Website:** Showcasing my projects, skills, and experience.
+
+## 📚 Learning & Exploring
+
+- **Operating Systems & Multithreading:** Deepening my understanding of core computer science fundamentals.
+- **Advanced Java:** Focusing on Java and backend development.
+
+## ✍️ Blog
+
+I regularly write articles on Medium about what I'm learning in computer science. Some recent topics include:
+
+- Java Servlets and Backend Development
+- Operating Systems Concepts
+- Multithreading in Java
+
+Check out my [Medium Blog](https://medium.com/@AbhilashA).
+
+## 📫 How to Reach Me
+
+- **Email:** abhilash.savadatti@example.com
+- **LinkedIn:** [Abhilash A Savadatti](https://www.linkedin.com/in/abhilash-a-savadatti/)
+- **GitHub:** [Abhilash A Savadatti](https://github.com/AbhilashSavadatti)
+
+## 🌱 What’s Next?
+
+I'm always looking for opportunities to collaborate on exciting projects and further develop my skills. Whether it's contributing to open-source projects or working on innovative ideas, I'm eager to learn and grow.
