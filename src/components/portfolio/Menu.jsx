@@ -1,5 +1,5 @@
 import Work1 from "../../assets/Twitterm.png";
-import Work2 from "../../assets/cryptoverse.png";
+import Work2 from "../../assets/SAVE_20240823_212414.jpg";
 
 
 const Menu = [
