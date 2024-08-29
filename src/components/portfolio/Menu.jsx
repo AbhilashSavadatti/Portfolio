@@ -10,13 +10,13 @@ const Menu = [
 		category: ["Frontend", "React"],
 		repositoryUrl: "https://github.com/AbhilashSavadatti/AbhiSocial.git"
 	},
-	{
-		id: 2,
-		image: Work2,
-		title: "Mega Blog",
-		category: ["Frontend", "React"],
-		url: "",
-		repositoryUrl: "https://github.com/AbhilashSavadatti/react.git"
+	//{
+	//	id: 2,
+	//	image: Work2,
+	//	title: "Mega Blog",
+	//	category: ["Frontend", "React"],
+	//	url: "",
+	//	repositoryUrl: "https://github.co//AbhilashSavadatti/react.git"
 	},
 ];
 
