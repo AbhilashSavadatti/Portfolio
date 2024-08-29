@@ -17,7 +17,7 @@ const Menu = [
 	//	category: ["Frontend", "React"],
 	//	url: "",
 	//	repositoryUrl: "https://github.co//AbhilashSavadatti/react.git"
-	},
+	//},
 ];
 
 export default Menu;
